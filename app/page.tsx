@@ -4,6 +4,8 @@ import Link from "next/link";
 import { lusitana } from "./ui/fonts";
 import Image from "next/image";
 
+// This is the home page associated with the route /
+// page.tsx is a special Next.js file that exports a React component, and it's required for the route to be accessible.
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
