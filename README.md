@@ -7,6 +7,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - Signature
 
 ```
+[Next.js App Router Series]
 Watch my progress: https://github.com/ninjaNgai/nextjs-dashboard
 -
 Follow along with me Courtney Ngai to increase your tech acumen - let's learn and grow together!
